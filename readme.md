@@ -9,7 +9,7 @@ The main program which needs to be executed is the Jupyter notebook with file na
 
 
 5. 'uk_train_reviews.html
-The html output of the 'sher_khan_okra_assignment.ipynb' so that in case jupyter notebook does not run or don't have time to run then one can check this file where every input and output is clearly visible along with graphs
+The html output of the 'uk_train_reviews.ipynb' so that in case jupyter notebook does not run or don't have time to run then one can check this file where every input and output is clearly visible along with graphs
 
 7. train_reviews.json
 File scrapped from trustpilot which is used as input for the jupyter notebook 
